@@ -1,0 +1,8 @@
+div {margin-bottom:20px;}
+#code textarea {
+      font-family:"Courier New", Courier, monospace;
+      background:#ccc;
+      color:#000;
+      font-size:11px;
+      width:400px;
+}
